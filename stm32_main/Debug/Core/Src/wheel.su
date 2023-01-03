@@ -1,0 +1,3 @@
+../Core/Src/wheel.c:7:6:Wheel_init	24	static
+../Core/Src/wheel.c:36:6:Wheel_set	16	static
+../Core/Src/wheel.c:46:10:Wheel_getspeed	24	static

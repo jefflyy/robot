@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "main.h": "c",
+        "servo.h": "c",
+        "jy901.h": "c",
+        "wheel.h": "c",
+        "pid.h": "c",
+        "encoder.h": "c",
+        "control.h": "c",
+        "rpcndr.h": "c",
+        "windows.h": "c",
+        "utils.h": "c"
+    }
+}

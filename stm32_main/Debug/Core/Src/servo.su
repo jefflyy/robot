@@ -1,0 +1,5 @@
+../Core/Src/servo.c:8:6:Servo_init	24	static
+../Core/Src/servo.c:21:6:Servo_set	16	static
+../Core/Src/servo.c:28:6:Paw_init	8	static
+../Core/Src/servo.c:50:6:Paw_pick	8	static
+../Core/Src/servo.c:65:6:Paw_drop	16	static
